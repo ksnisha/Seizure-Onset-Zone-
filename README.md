@@ -76,10 +76,6 @@ The reported analysis retained:
 - 184 graph instances
 - 19 training subjects / 5 validation subjects / 6 held-out test subjects
 
-**Raw HUP and VEP data are not redistributed in this repository.** Download them from their original public sources and comply with their respective terms of use.
-
-See [`DATA.md`](DATA.md) for setup details.
-
 ## Installation
 
 Create and activate a Python virtual environment, then install the dependencies:

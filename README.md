@@ -242,20 +242,6 @@ Seizure-Onset-Zone-/
     └── README.md
 ```
 
-You may additionally commit selected manuscript figures, summary CSV files, and the frozen patient-split manifest. Do not upload the raw HUP/VEP datasets to this repository.
 
-## Citation
 
-If you use this code, please cite the accompanying manuscript:
 
-> Nisha K. S., Divya Udayan J., and Guru Prasad K., “pVEP-EZNet: Mechanism-Informed Explainable Graph Ranking of Seizure-Onset-Zone Candidates Using Virtual Epileptic Patient Pretraining and Human Intracranial EEG,” 2026.
-
-A machine-readable citation file is provided in [`CITATION.cff`](CITATION.cff).
-
-## Clinical-use notice
-
-This repository is a research implementation for retrospective computational analysis. It is **not a clinical decision-support system** and has not been established for prospective diagnosis, treatment planning, or surgical decision-making.
-
-## License
-
-A software license has **not** been selected automatically in this support bundle. See [`LICENSE_OPTIONS.md`](LICENSE_OPTIONS.md) and choose the license that matches the authors' and institution's intended release terms before public distribution.
